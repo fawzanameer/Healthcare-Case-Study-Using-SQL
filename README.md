@@ -22,6 +22,9 @@ The project revolves around answering several key questions using SQL queries:
 10. Rare Diagnosis Occurrences
 11. Top 10 Most Used and Least Used Claim Codes
 
+![image](https://github.com/fawzanameer/Healthcare-Case-Study-Using-SQL/assets/56350044/69b58c3f-a190-4937-9396-301a4efc8079)
+
+
 
  
 #### Feel free to explore the SQL queries in the respective files in this repository to delve into the insights obtained from this analysis.
