@@ -23,18 +23,6 @@ The project revolves around answering several key questions using SQL queries:
 11. Top 10 Most Used and Least Used Claim Codes
 
 ![image](https://github.com/fawzanameer/Healthcare-Case-Study-Using-SQL/assets/56350044/69b58c3f-a190-4937-9396-301a4efc8079)
-![image](https://github.com/fawzanameer/Healthcare-Case-Study-Using-SQL/assets/56350044/2809e24f-758a-40a1-9c30-f6ba2c8c8838)
-![image](https://github.com/fawzanameer/Healthcare-Case-Study-Using-SQL/assets/56350044/9e02eb41-b86c-4ac0-bca0-f9c60442eb22)
-![image](https://github.com/fawzanameer/Healthcare-Case-Study-Using-SQL/assets/56350044/4b680897-548a-453e-bfc0-d4a96541c279)
-![image](https://github.com/fawzanameer/Healthcare-Case-Study-Using-SQL/assets/56350044/c8b197c8-61e8-47aa-b451-0296b358e749)
-![image](https://github.com/fawzanameer/Healthcare-Case-Study-Using-SQL/assets/56350044/e722b5b5-ba68-4051-a2f2-94ca2a1ecd2d)
-
-
-
-
-
-
-
 
 
 
