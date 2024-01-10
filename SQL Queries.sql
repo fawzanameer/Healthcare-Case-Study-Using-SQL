@@ -236,15 +236,3 @@ where c.CptGrouping <> "medicine"
 GROUP BY 1, 2 
 ORDER BY 3 DESC
 LIMIT 10 ;
-
-
-
-select * fROM dim_date ;
-SELECT * FROM dim_diagnosiscode;
-SELECT * FROM dim_cptcode ;
-
-
-
-
-
-
