@@ -4,7 +4,7 @@ Hello everyone, I'm Fawzan.
 This project is the culmination of my studies for a data analytics certificate at Ivy Pro School. The aim was to utilize SQL for analyzing publicly available data.
 
 ## Data Source
-The dataset used for this project was sourced from Kaggle. You can access the dataset from this link - https://www.kaggle.com/datasets/tomaslui/healthcare-dataset
+The dataset used for this project was sourced from Kaggle.  [Click here]([url](https://www.kaggle.com/datasets/tomaslui/healthcare-dataset)) to access the dataset.
 
 ## Project Overview
 The project revolves around answering several key questions using SQL queries:
